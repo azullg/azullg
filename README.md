@@ -1,16 +1,13 @@
-## Hi there 👋
+¡Hola! Soy Azul 👋
+Soy un apasionado desarrollador frontend con experiencia en la creación de interfaces de usuario interactivas y responsivas. Me especializo en trabajar con tecnologías modernas como React, CSS modular, y herramientas de diseño como Adobe.
 
-<!--
-**azullg/azullg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Habilidades
+Lenguajes y Tecnologías: HTML, CSS, JavaScript, React, Redux, TypeScript
+Herramientas y Frameworks: Bootstrap, Tailwind CSS, SweetAlert2
+Diseño: Diseño responsivo, UX/UI, prototipado en Adobe 
 
-Here are some ideas to get you started:
+¿Qué me Motiva?
+Me encanta resolver problemas y crear experiencias digitales que sean tanto funcionales como estéticamente agradables. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Conéctemos
+Puedes encontrarme en LinkedIn. No dudes en ponerte en contacto para colaborar en proyectos interesantes o simplemente para charlar sobre tecnología.
