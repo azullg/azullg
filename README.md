@@ -18,14 +18,6 @@ Además de estos campos, tengo experiencia en diseño gráfico, donde desarrollo
 - **Herramientas y Frameworks:** Bootstrap, Tailwind CSS, SweetAlert2
 - **Diseño:** Diseño responsivo, UX/UI, prototipado en Adobe Ilustrador
 
-## Proyectos Destacados
-
-### Dogs Api
-Descripción breve del proyecto, las tecnologías utilizadas y tu rol en él. Incluye capturas de pantalla o enlaces si es posible.
-
-- **Tecnologías:** React, CSS modular
-- **Descripción:** Descripción de lo que hace el proyecto y tu contribución.
-
 ## ¿Qué Me Motiva?
 
 Me encanta crear soluciones que mejoren la experiencia del usuario y explorar nuevas tecnologías. Siempre estoy buscando aprender y crecer profesionalmente.
