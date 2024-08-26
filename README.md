@@ -26,8 +26,8 @@ Me encanta crear soluciones que mejoren la experiencia del usuario y explorar nu
 
 Puedes conectarte conmigo a través de:
 
-- [LinkedIn](tu-linkedin)
-- [Correo Electrónico](mailto:tu-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/azul-leonardini-5908aa260/)
+- [Correo Electrónico](azul.mica.leo@gmail.com)
 
 ¡Estoy abierto a colaborar en proyectos interesantes y nuevas oportunidades!
 
